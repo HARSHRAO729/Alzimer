@@ -23,6 +23,10 @@ COLLECTION_NAME = "memories"
 TOP_K = 3
 GENERATION_TEMP = 0.7
 
+# Source IDs
+SOURCE_HOME = "home_camera"
+SOURCE_GLASSES = "eyeglasses"
+
 # Ensure directories exist
 DATA_DIR.mkdir(exist_ok=True)
 CHROMA_DIR.mkdir(exist_ok=True)

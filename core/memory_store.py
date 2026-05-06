@@ -51,3 +51,12 @@ class MemoryStore:
     def count(self) -> int:
         """Return total number of memories."""
         return self.adapter.count()
+
+    def get_timeline(self) -> List[Dict[str, Any]]:
+        """Get memories sorted by date for the Action Logger."""
+        memories = self.get_all_memories()
+        # Sort by date (assuming ISO format in metadata)
+        try:
+            return sorted(memories, key=lambda x: x.get("date", ""), reverse=True)
+        except:
+            return memories

@@ -31,5 +31,14 @@ def sample_memory():
         "context": "Testing the memory store with a mock record.",
         "emotional_tone": "Neutral",
         "people": ["Tester"],
-        "location": "Lab"
     }
+
+@pytest.fixture
+def seeded_db(mock_adapter, sample_memory):
+    """DB pre-loaded with sample memories."""
+    mock_adapter.upsert(
+        sample_memory["memory_id"], 
+        sample_memory["context"], 
+        {k: v for k, v in sample_memory.items() if k != "context"}
+    )
+    return mock_adapter
