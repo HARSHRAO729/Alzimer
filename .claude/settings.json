@@ -1,0 +1,6 @@
+{
+    "env": {
+        "ANTHROPIC_BASE_API": "http://localhost:11434"
+    },
+    "model": "gemma4"
+}

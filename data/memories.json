@@ -1,0 +1,137 @@
+[
+  {
+    "memory_id": "M001",
+    "date": "2023-05-10",
+    "context": "Grandma's birthday cake with blue frosting. We were laughing so hard because Uncle Ravi accidentally sat on the streamers and got them stuck to his pants.",
+    "emotional_tone": "Joyful",
+    "people": ["Grandma", "Uncle Ravi"],
+    "location": "Home",
+    "tags": ["birthday", "cake", "family", "laughter"]
+  },
+  {
+    "memory_id": "M002",
+    "date": "2021-08-15",
+    "context": "First day at college. I was so nervous walking into the hostel with my heavy suitcases. Met Arun, my roommate, who was already blast music and offered me a samosa.",
+    "emotional_tone": "Nervous/Excited",
+    "people": ["Self", "Arun"],
+    "location": "Hostel",
+    "tags": ["college", "hostel", "friendship", "new beginnings"]
+  },
+  {
+    "memory_id": "M003",
+    "date": "2019-12-24",
+    "context": "Family road trip to the mountains. The car broke down near a small stream, and we ended up having a picnic while Dad tried to fix the engine. The air was so crisp.",
+    "emotional_tone": "Adventurous",
+    "people": ["Dad", "Mom", "Sister"],
+    "location": "Mountain Pass",
+    "tags": ["travel", "mountains", "picnic", "adventure"]
+  },
+  {
+    "memory_id": "M004",
+    "date": "2024-03-02",
+    "context": "Late-night coding session for the hackathon. We were on our fifth cup of coffee, and the code finally compiled at 3 AM. The feeling of success was unmatched.",
+    "emotional_tone": "Determined",
+    "people": ["Harsh", "Parth", "Sneha"],
+    "location": "Tech Hub",
+    "tags": ["work", "hackathon", "coding", "success"]
+  },
+  {
+    "memory_id": "M005",
+    "date": "2018-11-07",
+    "context": "Diwali at grandparents' house. The entire courtyard was filled with diyas. The smell of sweets and the sound of crackers in the distance felt like home.",
+    "emotional_tone": "Nostalgic",
+    "people": ["Grandparents", "Cousins"],
+    "location": "Grandparents' House",
+    "tags": ["festival", "diwali", "home", "lights"]
+  },
+  {
+    "memory_id": "M006",
+    "date": "2022-06-12",
+    "context": "Puppy Bruno's first day home. He was so small he could fit in a shoebox. He spent the whole afternoon chasing his own tail on the rug.",
+    "emotional_tone": "Tender",
+    "people": ["Family", "Bruno"],
+    "location": "Living Room",
+    "tags": ["pets", "dog", "bruno", "new family member"]
+  },
+  {
+    "memory_id": "M007",
+    "date": "2023-07-20",
+    "context": "Graduation ceremony. Throwing our caps in the air under the bright sun. Mom was crying, and Dad was taking blurry photos from the third row.",
+    "emotional_tone": "Proud",
+    "people": ["Parents", "Friends"],
+    "location": "University Lawn",
+    "tags": ["graduation", "university", "pride", "milestone"]
+  },
+  {
+    "memory_id": "M008",
+    "date": "2020-04-15",
+    "context": "Rainy afternoon board games. The power went out, so we played Ludo by candlelight. It was the quietest and coziest the house had ever been.",
+    "emotional_tone": "Cozy",
+    "people": ["Siblings"],
+    "location": "Dining Room",
+    "tags": ["rainy day", "games", "family time", "cozy"]
+  },
+  {
+    "memory_id": "M009",
+    "date": "2025-01-10",
+    "context": "Cooking disaster. We tried to make pasta from scratch, but it turned into a giant dough ball. We gave up and ordered pizza, eating it on the floor.",
+    "emotional_tone": "Funny",
+    "people": ["Roommates"],
+    "location": "Apartment",
+    "tags": ["cooking", "fail", "pizza", "fun"]
+  },
+  {
+    "memory_id": "M010",
+    "date": "2017-02-14",
+    "context": "Sunrise hike on a school trip. We reached the peak just as the sky turned orange. The valley below was covered in mist, and everything was silent.",
+    "emotional_tone": "Peaceful",
+    "people": ["Classmates", "Teachers"],
+    "location": "Hill Peak",
+    "tags": ["hiking", "nature", "sunrise", "peace"]
+  },
+  {
+    "memory_id": "M011",
+    "date": "2024-11-22",
+    "context": "Sister's wedding sangeet rehearsal. Everyone was tripping over their own feet trying to learn the dance steps. It was chaotic but so much fun.",
+    "emotional_tone": "Chaotic/Joyful",
+    "people": ["Family"],
+    "location": "Community Center",
+    "tags": ["wedding", "dance", "rehearsal", "family"]
+  },
+  {
+    "memory_id": "M012",
+    "date": "2021-12-05",
+    "context": "Losing in the cricket match finals. We were disappointed, but we sat on the grass after the game and talked about all the great moments of the season.",
+    "emotional_tone": "Bittersweet",
+    "people": ["Team"],
+    "location": "Cricket Ground",
+    "tags": ["sports", "cricket", "loss", "teamwork"]
+  },
+  {
+    "memory_id": "M013",
+    "date": "2022-09-30",
+    "context": "Mom teaching me to make the perfect chai. She said the secret is in how long you let the tea leaves simmer with the ginger.",
+    "emotional_tone": "Warm",
+    "people": ["Mom"],
+    "location": "Kitchen",
+    "tags": ["cooking", "chai", "mom", "tradition"]
+  },
+  {
+    "memory_id": "M014",
+    "date": "2023-10-12",
+    "context": "Surprise birthday party thrown by my friends. I walked in thinking it was just a regular study night. I was completely overwhelmed by the love.",
+    "emotional_tone": "Overwhelmed",
+    "people": ["Friends"],
+    "location": "Friend's Flat",
+    "tags": ["birthday", "surprise", "friends", "love"]
+  },
+  {
+    "memory_id": "M015",
+    "date": "2016-08-20",
+    "context": "Quiet evening on the terrace watching stars with Dad. He told me stories about the constellations and how he used to watch them when he was a kid.",
+    "emotional_tone": "Reflective",
+    "people": ["Self", "Dad"],
+    "location": "Terrace",
+    "tags": ["stars", "dad", "stories", "reflection"]
+  }
+]
